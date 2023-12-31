@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="board_cell_size">150dp</dimen>
+    <dimen name="button_size">100dp</dimen>
+    <dimen name="standard_gap">30dp</dimen>
+    <dimen name="title_size">72sp</dimen>
+</resources>

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Hw2-Kenney</string>
+    <string name="game_title">Frogs &amp; Toads</string>
+    <string name="game_over_victory">You won! Congratulations! Please undo some moves or
+    create a new game to continue.</string>
+    <string name="game_over_failure">You lost! Please undo some moves or create a
+    new game to continue.</string>
+    <string name="illegal_move_text">That %s cannot move into the empty
+        space!</string>
+    <string name="move_count">Moves: %d</string>
+    <string name="illegal_undo_text">There are no prior moves to undo!</string>
+    <string name="move_undone">Previous move undone.</string>
+    <string name="confirm_reset_text">Are you sure you want to reset the game?
+        All current progress will be lost!</string>
+    <string name="waiting_on_reset_text">Please create a new game or undo moves to
+        continue.</string>
+
+    <string name="music_muted">Music has been muted.</string>
+    <string name="music_unmuted">Music has been unmuted.</string>
+    <string name="sfx_muted">Sound effects have been muted.</string>
+    <string name="sfx_unmuted">Sound effects have been unmuted.</string>
+
+    <string name="debug_approaching">A debug game will be launched in %d more
+        clicks!</string>
+    <string name="debug_activated">Setting board to a debug game!</string>
+
+    <string name="empty_alt">EMPTY</string>
+    <string name="undo_button_alt">UNDO</string>
+    <string name="game_over_title">GAME OVER</string>
+    <string name="toad_text">toad</string>
+    <string name="frog_text">frog</string>
+
+    <string name="affirm_button_text">REVIEW BOARD</string>
+    <string name="reset_button_text">NEW GAME</string>
+    <string name="show_valid_moves_button_text">%s VALID MOVES</string>
+    <string name="sfx_toggle_button_alt">SFX</string>
+    <string name="music_toggle_button_alt">MUSIC</string>
+    <string name="confirm_reset_affirm">YES</string>
+    <string name="confirm_reset_negative">NO</string>
+    <string name="music_mute_button">MUTE MUSIC</string>
+    <string name="music_unmute_button">UNMUTE MUSIC</string>
+    <string name="undo_button_text">UNDO LAST MOVE</string>
+</resources>
